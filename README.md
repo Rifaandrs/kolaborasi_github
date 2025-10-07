@@ -7,4 +7,4 @@ perubahan pada file `data.txt`.
  
 ## Anggota Kelompok 
 - Potjoet Syarifah Malahayati
-- Nama Anggota 2 
+- Adhini Setiamoniq 

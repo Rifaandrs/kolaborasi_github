@@ -1,4 +1,4 @@
 Daftar kontribusi: 
 
 - [ ] Pocut menambah nama
-- [ ] Anggota 2 menambahkan satu baris teks di sini.  
+- [ ] Dhini menambahkan nama  
